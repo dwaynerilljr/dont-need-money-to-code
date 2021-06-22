@@ -1,5 +1,6 @@
 .navbar {
-    background-color: #70d0c6;
+    background-color: #ff5e5b;
+    font-size: 2.5vh;
 }
 
 .navbar-brand, .nav-link {
@@ -7,5 +8,24 @@
 }
 
 .navbar-brand:hover, .nav-link:hover {
-    color: #ffd8c5;
+    color: #70d0c6;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.fa-bars:hover {
+    color: #70d0c6;
+}
+
+.jumbotron {
+    background-color: #70d0c6;
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background-color: #ff5e5b;
+    color: white;
 }
